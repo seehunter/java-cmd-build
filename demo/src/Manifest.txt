@@ -1,0 +1,1 @@
+Main-Class: com.lkx.test.Test\Class-Path: . sum.jar\
